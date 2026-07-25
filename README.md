@@ -1,4 +1,4 @@
-# 🏡 Denmark Housing Market Analytics Dashboard
+# 🏡 Housing Market Analytics Dashboard
 
 An end-to-end cloud data warehouse and analytics solution built to analyze real estate valuation, property transactions, price per square meter, and market trends across Denmark's municipalities.
 
